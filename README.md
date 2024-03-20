@@ -12,7 +12,7 @@ Este proyecto es una calculadora simple implementada en JavaScript. Puede realiz
 
 ## Cómo usar
 
-1. Abre el archivo `index.html` en tu navegador. o 
+1. Abre el archivo `index.html` en tu navegador. o https://uboras.github.io/Index.html
 2. Ingresa los números en los campos de entrada.
 3. Selecciona la operación que deseas realizar.
 4. Haz clic en el botón 'Calcular' para ver el resultado.
